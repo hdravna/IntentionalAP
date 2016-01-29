@@ -1,7 +1,12 @@
-
-
+/*
+Author: Anvardh Nanduri
+Organisation: CATSR, GMU
+Supervisor: Lance Sherry
+Date: September 2014
+Code for Intentional Auto Pilot Prototype. No part of this software code can be reused in any form without prior approval of the author.
+email: anvardh@gmail.com
+*/
 import javax.swing.JPanel;
-
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics;
